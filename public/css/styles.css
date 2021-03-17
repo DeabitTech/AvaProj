@@ -1,0 +1,13 @@
+body {
+    background-color: #957DAD;
+    color: white;
+}
+
+.exiter{
+    position: absolute;
+    color: white;
+    left: 50%;
+    bottom: 0;
+    font-size: 20px;
+    cursor: pointer;
+}
